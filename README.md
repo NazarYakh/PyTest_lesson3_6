@@ -1,1 +1,1 @@
-# PyTest_lesson3_6
+Homework for lesson 3.6 on stepik.org
